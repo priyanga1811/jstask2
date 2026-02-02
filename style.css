@@ -1,0 +1,17 @@
+div{
+    text-align: center;
+}
+table{
+    margin-left: 450px;
+    padding: 20px;;
+}
+td{
+    margin-bottom: 30px;
+}
+h2{
+    background-color: darkgray;
+    color: black;
+    padding: 30px;
+    margin: 100px;
+
+}
